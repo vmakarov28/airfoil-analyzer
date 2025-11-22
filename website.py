@@ -1004,7 +1004,7 @@ if st.session_state.page == "home":
                         align-items: center;
                         cursor: pointer;
                         margin: 15px 0;
-                        width: 400px !important;  # Main width control: adjust this pixel value for all widgets
+                        width: 640px !important;  # Main width control: adjust this pixel value for all widgets
                         min-width: 300px !important;  # Ensures minimum on small screens
                         max-width: 700px !important;  # Caps on large screens for uniformity
                         font-size: 14px;
